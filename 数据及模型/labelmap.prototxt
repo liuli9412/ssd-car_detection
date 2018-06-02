@@ -1,0 +1,25 @@
+item {
+  name: "none_of_the_above"
+  label: 0
+  display_name: "background"
+}
+item {
+  name: "Car"
+  label: 1
+  display_name: "Car"
+}
+item {
+  name: "Pes"
+  label: 2
+  display_name: "pes"
+}
+item {
+  name: "Bicycle"
+  label: 3
+  display_name: "Bicycle"
+}
+item {
+  name: "Roadblock"
+  label: 4
+  display_name: "Roadblock"
+}
